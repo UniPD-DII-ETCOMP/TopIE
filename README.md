@@ -22,7 +22,7 @@ Set the "test_case_dir" variables in "TopIE.m"  to the appropriate directories.
 
 User-defined test cases
 -----------------------
-Follow the instuctions given in "README.txt" inside the "data" directory.
+Follow the instuctions given in "README.txt" inside the "test_cases" directory.
 
 Results visualization
 --------------------
