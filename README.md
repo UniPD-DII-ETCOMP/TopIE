@@ -26,7 +26,7 @@ Follow the instuctions given in "README.txt" inside the "test_cases" directory.
 
 Results visualization
 --------------------
-The plot of the power losses is given at the end of the simulation.
+The convergence trend and the topology during algorithm iterations are plotted. 
 
 Credits
 --------------------
